@@ -77,8 +77,8 @@ This project is open source and available under the MIT License.
   
 ### 🔮 Preview
 
-![Website Preview](https://i.imgur.com/8x7Q3C6.png)
 
-[![Open in Browser](https://img.shields.io/badge/Open-Live%20Demo-blue?style=for-the-badge)](https://your-live-demo-link.com)
+
+[![Open in Browser](https://img.shields.io/badge/Open-Live%20Demo-blue?style=for-the-badge)](https://trouverai.vercel.app/)
 
 </div>
