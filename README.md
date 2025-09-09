@@ -1,6 +1,6 @@
 # Trouver AI - Futuristic Website 🌟
 
-![Trouver AI Banner](https://i.imgur.com/5XJQZ9g.png)
+
 
 A stunning, futuristic website for Trouver AI featuring cutting-edge design elements, smooth animations, and a fully responsive layout.
 
